@@ -1,0 +1,62 @@
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is starting
+[main] INFO  org.apache.camel.management.ManagedManagementStrategy  - JMX is enabled
+[main] INFO  org.apache.camel.impl.converter.DefaultTypeConverter  - Type converters loaded (core: 195, classpath: 0)
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+[main] INFO  org.apache.camel.component.file.FileEndpoint  - Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+[main] INFO  org.apache.camel.component.file.FileEndpoint  - Using default memory based idempotent repository with cache max size: 1000
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Route: route1 started and consuming from: file://data/input?noop=true
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Total 1 routes, of which 1 are started
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) started in 0.346 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is shutting down
+[main] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Starting to graceful shutdown 1 routes (timeout 300 seconds)
+[Camel (camel-1) thread #2 - ShutdownTask] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+[main] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Graceful shutdown of 1 routes completed in 0 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) uptime 3.386 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is shutdown in 0.029 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is starting
+[main] INFO  org.apache.camel.management.ManagedManagementStrategy  - JMX is enabled
+[main] INFO  org.apache.camel.impl.converter.DefaultTypeConverter  - Type converters loaded (core: 195, classpath: 0)
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+[main] INFO  org.apache.camel.component.file.FileEndpoint  - Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+[main] INFO  org.apache.camel.component.file.FileEndpoint  - Using default memory based idempotent repository with cache max size: 1000
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Route: route1 started and consuming from: file://data/input?noop=true
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Total 1 routes, of which 1 are started
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) started in 0.400 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is shutting down
+[main] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Starting to graceful shutdown 1 routes (timeout 300 seconds)
+[Camel (camel-1) thread #2 - ShutdownTask] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+[main] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Graceful shutdown of 1 routes completed in 0 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) uptime 3.439 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is shutdown in 0.030 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is starting
+[main] INFO  org.apache.camel.management.ManagedManagementStrategy  - JMX is enabled
+[main] INFO  org.apache.camel.impl.converter.DefaultTypeConverter  - Type converters loaded (core: 195, classpath: 0)
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+[main] INFO  org.apache.camel.component.file.FileEndpoint  - Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+[main] INFO  org.apache.camel.component.file.FileEndpoint  - Using default memory based idempotent repository with cache max size: 1000
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Route: route1 started and consuming from: file://data/input?noop=true
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Total 1 routes, of which 1 are started
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) started in 0.346 seconds
+[Camel (camel-1) thread #1 - file://data/input] INFO    - Exchange[ExchangePattern: InOnly, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[DSC_0739.png]]]
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is shutting down
+[main] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Starting to graceful shutdown 1 routes (timeout 300 seconds)
+[Camel (camel-1) thread #2 - ShutdownTask] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+[main] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Graceful shutdown of 1 routes completed in 0 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) uptime 3.375 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is shutdown in 0.019 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is starting
+[main] INFO  org.apache.camel.management.ManagedManagementStrategy  - JMX is enabled
+[main] INFO  org.apache.camel.impl.converter.DefaultTypeConverter  - Type converters loaded (core: 195, classpath: 0)
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+[main] INFO  org.apache.camel.component.file.FileEndpoint  - Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+[main] INFO  org.apache.camel.component.file.FileEndpoint  - Using default memory based idempotent repository with cache max size: 1000
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Route: route1 started and consuming from: file://data/input?noop=true
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Total 1 routes, of which 1 are started
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) started in 0.358 seconds
+[Camel (camel-1) thread #1 - file://data/input] INFO    - Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-DESKTOP-LAHAIBC-1578146049851-0-1, CamelFileAbsolute=false, CamelFileAbsolutePath=C:\Mridul\Project\CamelLearning\data\input\DSC_0739.png, CamelFileLastModified=1577988222205, CamelFileLength=38955248, CamelFileName=DSC_0739.png, CamelFileNameConsumed=DSC_0739.png, CamelFileNameOnly=DSC_0739.png, CamelFileParent=data\input, CamelFilePath=data\input\DSC_0739.png, CamelFileRelativePath=DSC_0739.png}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[DSC_0739.png]]]
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is shutting down
+[main] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Starting to graceful shutdown 1 routes (timeout 300 seconds)
+[Camel (camel-1) thread #2 - ShutdownTask] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+[main] INFO  org.apache.camel.impl.DefaultShutdownStrategy  - Graceful shutdown of 1 routes completed in 0 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) uptime 3.388 seconds
+[main] INFO  org.apache.camel.impl.DefaultCamelContext  - Apache Camel 2.24.2 (CamelContext: camel-1) is shutdown in 0.018 seconds
